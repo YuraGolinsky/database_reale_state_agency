@@ -1,0 +1,35 @@
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\БД Недвижимость 2022.mdb
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form6.resources
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Gagarin\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form7.resources
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\БД Недвижимость 2022.mdb
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form6.resources
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form7.resources
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\Универ\1Курс\1 семестр\Організація баз даних та знань\С.Р\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
